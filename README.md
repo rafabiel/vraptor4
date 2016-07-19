@@ -62,4 +62,8 @@ You can check compatibility with previous versions of `vraptor-core` by running:
 mvn clirr:clirr
 ```
 
+```
+mvn clirr:teste
+```
+
 A full report will be generated at `target/site/clirr-report.html` file.
